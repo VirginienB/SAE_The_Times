@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1028 1028">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #b0ffbc;
+      }
+
+      .cls-8, .cls-3 {
+        fill: #b0ffbc;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        fill: #fff;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-9, .cls-11 {
+        font-size: 16.33px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-size: 18px;
+      }
+
+      .cls-2 {
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+
+      .cls-13, .cls-5, .cls-7 {
+        fill: #8fb4ff;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        stroke: #8fb4ff;
+      }
+
+      .cls-11 {
+        glyph-orientation-vertical: 0deg;
+        text-orientation: upright;
+        writing-mode: tb;
+      }
+
+      .cls-15 {
+        letter-spacing: .01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1">
+    <line class="cls-4" x1="155.68" y1="190.77" x2="155.68" y2="944.57"/>
+    <line class="cls-4" x1="907.34" y1="944.57" x2="155.68" y2="944.57"/>
+    <text class="cls-11" transform="translate(156.07 954.45)"><tspan x="0" y="0">2020</tspan></text>
+    <text class="cls-11" transform="translate(762.19 954.45)"><tspan x="0" y="0">2028</tspan></text>
+    <text class="cls-11" transform="translate(685.89 954.45)"><tspan x="0" y="0">2027</tspan></text>
+    <text class="cls-11" transform="translate(609.19 954.45)"><tspan x="0" y="0">2026</tspan></text>
+    <text class="cls-11" transform="translate(532.3 954.45)"><tspan x="0" y="0">2025</tspan></text>
+    <text class="cls-11" transform="translate(452.93 954.45)"><tspan x="0" y="0">2024</tspan></text>
+    <text class="cls-11" transform="translate(382.43 954.45)"><tspan x="0" y="0">2023</tspan></text>
+    <text class="cls-11" transform="translate(309.65 954.45)"><tspan x="0" y="0">2022</tspan></text>
+    <text class="cls-11" transform="translate(232.66 954.45)"><tspan x="0" y="0">2021</tspan></text>
+    <text class="cls-11" transform="translate(908.44 954.45)"><tspan x="0" y="0">2030</tspan></text>
+    <text class="cls-11" transform="translate(836.38 954.45)"><tspan x="0" y="0">2029</tspan></text>
+    <line class="cls-2" x1="232.66" y1="944.57" x2="232.66" y2="196.79"/>
+    <line class="cls-2" x1="309.65" y1="944.57" x2="309.65" y2="196.79"/>
+    <line class="cls-2" x1="382.43" y1="944.57" x2="382.43" y2="196.79"/>
+    <line class="cls-2" x1="452.53" y1="944.57" x2="452.53" y2="196.79"/>
+    <line class="cls-2" x1="532.3" y1="944.57" x2="532.3" y2="190.77"/>
+    <line class="cls-2" x1="609.19" y1="944.57" x2="609.19" y2="196.79"/>
+    <line class="cls-2" x1="685.89" y1="944.57" x2="685.89" y2="196.79"/>
+    <line class="cls-2" x1="762.19" y1="944.57" x2="762.19" y2="196.79"/>
+    <line class="cls-2" x1="835.98" y1="944.57" x2="835.98" y2="196.79"/>
+    <line class="cls-2" x1="907.34" y1="944.57" x2="907.34" y2="190.77"/>
+    <text class="cls-9" transform="translate(89.35 847.96)"><tspan x="0" y="0">10000</tspan></text>
+    <text class="cls-9" transform="translate(89.35 751.36)"><tspan x="0" y="0">20000</tspan></text>
+    <text class="cls-9" transform="translate(89.35 654.75)"><tspan x="0" y="0">30000</tspan></text>
+    <text class="cls-9" transform="translate(89.35 563)"><tspan x="0" y="0">40000</tspan></text>
+    <text class="cls-9" transform="translate(89.35 461.54)"><tspan x="0" y="0">50000</tspan></text>
+    <text class="cls-9" transform="translate(89.35 367.4)"><tspan x="0" y="0">60000</tspan></text>
+    <text class="cls-9" transform="translate(89.35 268.32)"><tspan x="0" y="0">70000</tspan></text>
+    <line class="cls-6" x1="155.68" y1="930.4" x2="232.66" y2="885.02"/>
+    <line class="cls-6" x1="309.65" y1="859.54" x2="232.66" y2="885.02"/>
+    <line class="cls-6" x1="382.43" y1="818.79" x2="309.65" y2="859.54"/>
+    <line class="cls-6" x1="452.53" y1="795.17" x2="382.43" y2="818.79"/>
+    <line class="cls-6" x1="532.3" y1="751.36" x2="452.53" y2="795.17"/>
+    <line class="cls-6" x1="609.19" y1="702.77" x2="532.3" y2="751.36"/>
+    <line class="cls-6" x1="685.89" y1="640.94" x2="609.19" y2="702.77"/>
+    <line class="cls-6" x1="762.19" y1="577.72" x2="685.89" y2="640.94"/>
+    <line class="cls-6" x1="835.98" y1="477.68" x2="762.19" y2="577.72"/>
+    <line class="cls-6" x1="907.34" y1="349.86" x2="835.98" y2="477.68"/>
+    <line class="cls-1" x1="156.07" y1="942.14" x2="382.43" y2="942.07"/>
+    <line class="cls-1" x1="452.53" y1="941.06" x2="382.43" y2="942.07"/>
+    <line class="cls-1" x1="532.3" y1="939.36" x2="452.53" y2="941.06"/>
+    <line class="cls-1" x1="609.19" y1="937.97" x2="532.3" y2="939.36"/>
+    <line class="cls-1" x1="685.89" y1="936.89" x2="609.19" y2="937.97"/>
+    <line class="cls-1" x1="762.19" y1="935.04" x2="685.89" y2="936.89"/>
+    <line class="cls-1" x1="835.98" y1="932.41" x2="762.19" y2="935.04"/>
+    <line class="cls-1" x1="907.34" y1="930.87" x2="835.98" y2="932.41"/>
+    <rect class="cls-13" x="177.13" y="31.6" width="29.11" height="29.11"/>
+    <rect class="cls-8" x="177.13" y="91.83" width="29.11" height="29.11"/>
+    <text class="cls-10" transform="translate(230.47 48.46)"><tspan x="0" y="0">Nomb</tspan><tspan class="cls-14" x="46.98" y="0">r</tspan><tspan x="52.69" y="0">e </tspan><tspan class="cls-12" x="65.52" y="0">t</tspan><tspan x="71.37" y="0">otal de </tspan><tspan class="cls-16" x="126.94" y="0">v</tspan><tspan x="135.41" y="0">éhicules éle</tspan><tspan class="cls-15" x="223.11" y="0">c</tspan><tspan x="231.41" y="0">t</tspan><tspan class="cls-17" x="237.36" y="0">r</tspan><tspan x="243.32" y="0">iques</tspan></text>
+    <text class="cls-10" transform="translate(235.18 113.84)"><tspan x="0" y="0">Nomb</tspan><tspan class="cls-14" x="46.98" y="0">r</tspan><tspan x="52.69" y="0">e de p</tspan><tspan class="cls-17" x="98.75" y="0">r</tspan><tspan x="104.7" y="0">ises </tspan><tspan class="cls-12" x="136.01" y="0">t</tspan><tspan x="141.86" y="0">otal</tspan></text>
+  </g>
+  <g id="bleu_x5F_2030">
+    <circle class="cls-7" cx="907.34" cy="349.86" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2029">
+    <circle class="cls-7" cx="835.98" cy="477.68" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2028">
+    <circle class="cls-7" cx="762.19" cy="577.72" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2027">
+    <circle class="cls-7" cx="685.69" cy="641.1" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2026">
+    <circle class="cls-7" cx="609.19" cy="702.77" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2025">
+    <circle class="cls-7" cx="532.3" cy="751.36" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2024">
+    <circle class="cls-7" cx="452.53" cy="795.17" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2023">
+    <circle class="cls-5" cx="382.43" cy="818.79" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2022">
+    <circle class="cls-7" cx="309.65" cy="859.54" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2021">
+    <circle class="cls-7" cx="232.66" cy="885.02" r="2.44"/>
+  </g>
+  <g id="bleu_x5F_2020">
+    <circle class="cls-7" cx="156.07" cy="930.17" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2030">
+    <circle class="cls-3" cx="907.34" cy="930.87" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2029">
+    <circle class="cls-3" cx="836.38" cy="932.41" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2028">
+    <circle class="cls-3" cx="762.19" cy="934.85" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2027">
+    <circle class="cls-3" cx="685.89" cy="936.89" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2026">
+    <circle class="cls-3" cx="609.19" cy="937.43" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2025">
+    <circle class="cls-3" cx="532.3" cy="939.12" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2024">
+    <circle class="cls-3" cx="452.93" cy="941.56" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2023">
+    <circle class="cls-3" cx="382.43" cy="941.56" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2022">
+    <circle class="cls-3" cx="309.25" cy="942.14" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2021">
+    <circle class="cls-3" cx="232.66" cy="942.07" r="2.44"/>
+  </g>
+  <g id="vert_x5F_2020">
+    <circle class="cls-3" cx="155.68" cy="942.14" r="2.44"/>
+  </g>
+</svg>
